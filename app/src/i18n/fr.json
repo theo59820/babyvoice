@@ -1,0 +1,45 @@
+{
+  "appName": "BabyVoice",
+  "tapToRecord": "Appuie pour enregistrer",
+  "recording": "Enregistrement...",
+  "analyzing": "Analyse en cours...",
+  "resultTitle": "Traduction",
+  "confidence": "Confiance",
+  "tips": "Conseils",
+  "chooseLanguage": "Choisir une langue",
+  "home": "Accueil",
+  "explore": "Langue",
+
+  "labels": {
+    "HUNGRY": "Faim",
+    "SLEEPY": "Sommeil",
+    "DISCOMFORT": "Inconfort",
+    "DIAPER": "Couche",
+    "PAIN": "Douleur",
+    "ATTENTION": "Besoin d'attention"
+  },
+
+  "tipsMap": {
+    "TIP_FEED": "Propose un biberon ou l’allaitement.",
+    "TIP_CHECK_LAST_MEAL": "Vérifie le dernier repas (heure et quantité).",
+    "TIP_SUCKING_SIGNS": "Observe si le bébé cherche à téter (main à la bouche).",
+
+    "TIP_DIM_LIGHT": "Diminue la lumière et le bruit.",
+    "TIP_SLEEP_ROUTINE": "Essaie un bercement et une routine de sommeil.",
+    "TIP_SLEEP_SIGNS": "Observe les signes : bâillements, frottement des yeux.",
+
+    "TIP_CHECK_TEMP": "Vérifie la température (trop chaud ou trop froid).",
+    "TIP_CHECK_CLOTHES": "Vérifie les vêtements (étiquette, trop serré).",
+    "TIP_GAS_MASSAGE": "Coliques ou gaz : massage doux du ventre.",
+
+    "TIP_CHECK_DIAPER": "Vérifie la couche (humide ou sale).",
+    "TIP_CREAM_IF_IRRITATION": "Nettoie et applique une crème si irritation.",
+
+    "TIP_CHECK_TIGHT": "Vérifie si quelque chose serre (cheveux, chaussettes).",
+    "TIP_MONITOR_FEVER": "Si les pleurs sont inhabituels ou forts : surveille la fièvre et consulte si besoin.",
+
+    "TIP_HOLD_SKIN": "Prends le bébé en contact peau à peau.",
+    "TIP_SOOTH_TALK": "Parle doucement et berce-le.",
+    "TIP_PACIFIER": "Essaie une tétine si adaptée."
+  }
+}

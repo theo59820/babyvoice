@@ -1,0 +1,45 @@
+{
+  "appName": "BabyVoice",
+  "tapToRecord": "Tap to record",
+  "recording": "Recording...",
+  "analyzing": "Analyzing...",
+  "resultTitle": "Translation",
+  "confidence": "Confidence",
+  "tips": "Tips",
+  "chooseLanguage": "Choose a language",
+  "home": "Home",
+  "explore": "Language",
+
+  "labels": {
+    "HUNGRY": "Hungry",
+    "SLEEPY": "Sleepy",
+    "DISCOMFORT": "Discomfort",
+    "DIAPER": "Diaper",
+    "PAIN": "Pain",
+    "ATTENTION": "Needs attention"
+  },
+
+  "tipsMap": {
+    "TIP_FEED": "Offer feeding (bottle or breastfeeding).",
+    "TIP_CHECK_LAST_MEAL": "Check the last meal (time and amount).",
+    "TIP_SUCKING_SIGNS": "Look for sucking cues (hand to mouth).",
+
+    "TIP_DIM_LIGHT": "Reduce light and noise.",
+    "TIP_SLEEP_ROUTINE": "Try rocking and a sleep routine.",
+    "TIP_SLEEP_SIGNS": "Watch for signs: yawning and rubbing eyes.",
+
+    "TIP_CHECK_TEMP": "Check the temperature (too hot or too cold).",
+    "TIP_CHECK_CLOTHES": "Check clothes (tag, too tight).",
+    "TIP_GAS_MASSAGE": "Gas or colic: gentle belly massage.",
+
+    "TIP_CHECK_DIAPER": "Check the diaper (wet or dirty).",
+    "TIP_CREAM_IF_IRRITATION": "Clean and apply cream if irritated.",
+
+    "TIP_CHECK_TIGHT": "Check anything tight (hair, socks).",
+    "TIP_MONITOR_FEVER": "If crying is unusual or strong: monitor fever and seek advice if needed.",
+
+    "TIP_HOLD_SKIN": "Hold the baby with skin-to-skin contact.",
+    "TIP_SOOTH_TALK": "Speak softly and rock the baby.",
+    "TIP_PACIFIER": "Try a pacifier if appropriate."
+  }
+}

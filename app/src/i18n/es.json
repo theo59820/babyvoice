@@ -1,0 +1,13 @@
+{
+  "appName": "BabyVoice",
+  "tapToRecord": "Toca para grabar",
+  "recording": "Grabando...",
+  "analyzing": "Analizando...",
+  "resultTitle": "Traducción",
+  "confidence": "Confianza",
+  "tips": "Consejos",
+  "language": "Idioma",
+  "settings": "Ajustes",
+  "home": "Inicio",
+  "chooseLanguage": "Elige un idioma"
+}
